@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <!--
 **Qitaa/Qitaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+
+<!--
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -29,12 +31,15 @@ Here are some ideas to get you started:
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+-->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/Qitaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qitaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <!--
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qitaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qitaa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
